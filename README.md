@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+A Full Stack Clone of AirBnB website created using Next Js 13 App Router, React, Tailwind, Prisma, MongoDB, NextAuth.git init
 
 ## Getting Started
 
